@@ -37,4 +37,4 @@ Tài liệu tham khảo
 -   **Buổi 04:**  
     [ITK22 Training Contest #004](https://nbk.homes/contest/stcdc004)
 -   **Buổi 05:**  
-    [ITK22 Training Contest #004](https://nbk.homes/contest/stcdc005)
+    [ITK22 Training Contest #005](https://nbk.homes/contest/stcdc005)
