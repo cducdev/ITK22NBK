@@ -32,7 +32,7 @@ Tài liệu tham khảo
     [ITK22 Training Contest #002](https://codeforces.com/group/G0iFI97YZN/contest/478491)
 -   **Chuyên đề (10.20.23):**  
     [ITK22 Chuyên đề 2023-10-20](https://nbk.homes/contest/itk22cd231019)
--   **Chuyên đề (10.20.23):**  
+-   **Chuyên đề (10.27.23):**  
     [ITK22 Chuyên đề 2023-10-27](https://nbk.homes/contest/itk22cd231027)
 -   **Buổi 04:**  
     [ITK22 Training Contest #004](https://nbk.homes/contest/stcdc004)
