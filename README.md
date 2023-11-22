@@ -36,5 +36,7 @@ Tài liệu tham khảo
     [ITK22 Chuyên đề 2023-10-27](https://nbk.homes/contest/itk22cd231027)
 -   **Buổi 04:**  
     [ITK22 Training Contest #004](https://nbk.homes/contest/stcdc004)
--   **Buổi 05:**  
+-   **Buổi 05 và 06:**  
     [ITK22 Training Contest #005](https://nbk.homes/contest/stcdc005)
+-   **Buổi 07:**  
+    [ITK22 Training Contest #006](https://nbk.homes/contest/stcd006)
